@@ -1,0 +1,10 @@
+gestionale_web/
+│
+├─ main.py               # Avvio app + sidebar/menu
+├─ dipendenti.py         # Modulo gestione dipendenti
+├─ fornitori.py          # Modulo gestione fornitori
+├─ contabilita.py        # Modulo contabilità
+├─ appuntamenti.py       # Modulo calendario
+├─ todo.py               # Modulo To-Do
+├─ database.db           # SQLite database (creato automaticamente se mancante)
+└─ requirements.txt      # Librerie necessarie
