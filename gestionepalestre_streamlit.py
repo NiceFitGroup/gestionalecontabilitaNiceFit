@@ -59,4 +59,4 @@ def aggiorna_transazione(id_, stato_nuovo):
 # -------------------------------
 st.title("Gestionale Contabile Palestre")
 st.markdown("#### by Beatrice Ronconi — Consulenza & Gestione Palestre")
-�
+
